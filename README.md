@@ -1,1 +1,5 @@
-# rsd
+# RSD
+
+### RSD Summarizes Documents
+
+
